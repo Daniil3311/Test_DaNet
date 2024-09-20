@@ -1,19 +1,19 @@
-#Серверная часть
+Серверная часть
 
-##Миграции
+Миграции
  + python manage.py makemigrations
  + python manage.py migrate
 
-##Запуст сервера
+Запуст сервера
  + python manage.py runserver
 
-#Клиентская
+Клиентская
 
  + cd data_storage
  + python client.py
  
-#ClI
-##Commands
+ClI
+Commands
 + u - upload
 + d - download
 + q - exit
